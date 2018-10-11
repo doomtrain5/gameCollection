@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GameLibrary</string>
+
+    <string name="IGDB_API_KEY">77ccdc6f2b32c97fda9f8df935e16f7b</string>
 </resources>
